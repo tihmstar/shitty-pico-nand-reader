@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Package_DIP")(type "KiCad")(uri "${KIPRJMOD}/Package_DIP.pretty")(options "")(descr ""))
+)
